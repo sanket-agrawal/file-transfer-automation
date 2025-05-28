@@ -1,5 +1,0 @@
-boto3
-streamlit
-requests
-msal
-python-dotenv
